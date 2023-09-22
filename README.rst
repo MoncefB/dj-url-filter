@@ -2,19 +2,13 @@
 Django URL Filter
 =================
 
-.. image:: https://badge.fury.io/py/django-url-filter.svg
-   :target: http://badge.fury.io/py/django-url-filter
 .. image:: https://readthedocs.org/projects/django-url-filter/badge/?version=latest
    :target: http://django-url-filter.readthedocs.io/en/latest/?badge=latest
-.. image:: https://drone.miki725.com/api/badges/miki725/django-url-filter/status.svg
-   :target: https://drone.miki725.com/miki725/django-url-filter
-.. image:: https://codecov.io/gh/miki725/django-url-filter/branch/master/graph/badge.svg
-   :target: https://codecov.io/gh/miki725/django-url-filter
 
 Django URL Filter provides a safe way to filter data via human-friendly URLs.
 
 * Free software: MIT license
-* GitHub: https://github.com/miki725/django-url-filter
+* GitHub: https://github.com/MoncefB/django-url-filter-updated/
 * Documentation: http://django-url-filter.readthedocs.io/
 
 Overview
@@ -48,7 +42,7 @@ Installing
 
 Easiest way to install this library is by using ``pip``::
 
-    $ pip install django-url-filter
+    $ pip install url-filter
 
 Usage Example
 -------------
