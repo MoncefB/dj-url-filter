@@ -8,7 +8,7 @@ Django URL Filter
 Django URL Filter provides a safe way to filter data via human-friendly URLs.
 
 * Free software: MIT license
-* GitHub: https://github.com/MoncefB/django-url-filter-updated/
+* GitHub: https://github.com/MoncefB/django-rest-url-filter/
 * Documentation: http://django-url-filter.readthedocs.io/
 
 Overview
